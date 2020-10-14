@@ -1,0 +1,9 @@
+D:\my Projects\First\First\bin\Debug\First.exe.config
+D:\my Projects\First\First\bin\Debug\First.exe
+D:\my Projects\First\First\bin\Debug\First.pdb
+D:\my Projects\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+D:\my Projects\First\First\obj\Debug\First.Form1.resources
+D:\my Projects\First\First\obj\Debug\First.Properties.Resources.resources
+D:\my Projects\First\First\obj\Debug\First.csproj.GenerateResource.Cache
+D:\my Projects\First\First\obj\Debug\First.exe
+D:\my Projects\First\First\obj\Debug\First.pdb
